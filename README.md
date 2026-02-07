@@ -40,9 +40,7 @@
 <br>  It prefers learning by doing, often experimenting, refactoring, and improving its approach after every failure.
 <br>  Known for its adaptability, it performs best in evolving environments such as open-source projects and team-based development.
 <br><br>  Habitat:
-<br>  Commonly found near terminals late at night, especially when debugging .
-
-.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
+<br>  Commonly found near terminals late at night, especially when debugging .<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
 
