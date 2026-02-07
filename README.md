@@ -38,6 +38,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Gen+AI+%2B+Agentic+Speacialist)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=67&lines=ML+Enthusiast+%7C+Aspiring+Coder)](https://git.io/typing-svg)
+
 ---
 
 ## 🌐 Socials:
