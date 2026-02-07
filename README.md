@@ -31,10 +31,10 @@
 
 # Yooo , Nice to meet ya !!
 <br>• <u>Archit — the Programming Pokémon</u>
-<br><br>  Type: Tech / Code
-<br><br>  Ability: Adapt
-<br><br>  Nature: Curious, Persistent
-<br><br>  Evolution: Evolves by consistently building real-world projects, adapting to new codebases, and defeating stubborn bugs over time.
+<br><br>  Type:   Tech / Code
+<br><br>  Ability:   Adapt
+<br><br>  Nature:   Curious, Persistent
+<br><br>  Evolution:   Evolves by consistently building real-world projects, adapting to new codebases, and defeating stubborn bugs over time.
 <br><br>  Description:
 <br>  This Pokémon specializes in turning abstract ideas into structured systems.
 <br>  It prefers learning by doing, often experimenting, refactoring, and improving its approach after every failure.
