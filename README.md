@@ -33,8 +33,24 @@
 <br>• <u>Archit — the Programming Pokémon</u>
 <br><br>  Type: Tech / Code
 <br><br>  Ability: Adapt
-<br><br>  Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
-<br><br>  Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
+<br><br>  Nature: Curious, Persistent, Calm under pressure
+<br><br>  Evolution:
+<br>  Evolves by consistently building real-world projects, adapting to unfamiliar codebases,
+<br>  contributing to open-source, and defeating stubborn bugs through patience and iteration.
+<br><br>  Description:
+<br>  This Pokémon is known for its ability to learn directly from experience.
+<br>  Rather than avoiding difficult problems, it actively seeks them out to grow stronger.
+<br>  It prefers hands-on learning—experimenting, refactoring, and refining systems until they are stable and reliable.
+<br><br>  Archit Pokémon shows high adaptability in changing environments and performs especially well
+<br>  when exposed to collaborative settings such as open-source projects and team-based development.
+<br>  Its strength increases noticeably after overcoming failed builds or debugging complex issues.
+<br><br>  Behavior:
+<br>  Calm and focused during challenges, this Pokémon rarely panics during errors.
+<br>  Instead, it analyzes the problem, adjusts its approach, and tries again with improved strategy.
+<br><br>  Habitat:
+<br>  Commonly found near terminals late at night, especially during debugging sessions,
+<br>  project iterations, or open-source contributions.
+.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
 
