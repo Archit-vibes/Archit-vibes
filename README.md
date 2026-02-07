@@ -10,7 +10,7 @@
        style="opacity:0.1; position:relative; top:-40px; left:150px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="120" height="120" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="140" height="140" 
        style="opacity:0.08; position:relative; top:-60px; left:-100px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokémon)" target="_blank">
@@ -18,11 +18,11 @@
        style="opacity:0.1; position:relative; top:-70px; left:-50px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="110" height="110" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="135" height="135" 
        style="opacity:0.08; position:relative; top:-50px; left:200px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png" width="100" height="100" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png" width="150" height="150" 
        style="opacity:0.1; position:relative; top:-30px; left:-150px; display:block;">
 </a>
 
