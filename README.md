@@ -34,9 +34,7 @@
 <br><br>Type: Tech / Code
 <br><br>Ability: Adapt
 <br><br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
-<br><br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="60" height="60" 
-       style="opacity:0.1; position:relative; align = "middle" display:
+<br><br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
 
 
 ## 🌐 Socials:
