@@ -31,10 +31,10 @@
 
 # Yooo , Nice to meet ya !!
 I am Archit , Here's a brief on me : <br><br>Archit — the Programming Pokémon <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" align="middle" width="45" height="45" /></a>
-<br><br>Type: Tech / Code <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png" align="middle" width="45" height="45" /></a>
-<br><br>Ability: Adapt <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" align="middle" width="45" height="45" /></a>
-<br><br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" align="middle" width="45" height="45" /></a>
-<br><br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build. <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" align="middle" width="45" height="45" /></a>
+<br>Type: Tech / Code <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png" align="middle" width="45" height="45" /></a>
+<br>Ability: Adapt <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" align="middle" width="45" height="45" /></a>
+<br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" align="middle" width="45" height="45" /></a>
+<br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build. <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" align="middle" width="45" height="45" /></a>
 
 
 
