@@ -30,7 +30,13 @@
 
 
 # Yooo , Nice to meet ya !!
-🔭 I’m currently working on<br>Training my Pokémon by building full-stack projects and refining systems through real-world battles (aka bugs).<br><br>👯 I’m looking to collaborate on<br>Open-source projects and dev communities—co-op raids where everyone levels up together.<br><br>🤝 I’m looking for help with<br>Mastering advanced moves like system design, scalability, and clean architecture.<br><br>🌱 I’m currently learning<br>New techniques to boost my Pokémon’s stats—better debugging, optimization, and smarter problem-solving.<br><br>💬 Ask me about<br>Debugging battles, refactoring strategies, and turning failed builds into experience points.<br><br>⚡ Fun fact<br>This Pokémon gains XP from bugs instead of losing HP.
+I am Archit , Here's a brief on me : <br>Archit — the Programming Pokémon
+Type: Tech / Code
+Ability: Adapt
+Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
+
+Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.
+
 
 
 ## 🌐 Socials:
