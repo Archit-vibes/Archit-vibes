@@ -30,7 +30,7 @@
 
 
 # Yooo , Nice to meet ya !!
-<br>• Archit — the Programming Pokémon
+<br>• <u>Archit — the Programming Pokémon</u>
 <br><br>  Type: Tech / Code
 <br><br>  Ability: Adapt
 <br><br>  Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
