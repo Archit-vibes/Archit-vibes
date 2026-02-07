@@ -6,7 +6,7 @@
        style="opacity:0.12; position:relative; top:-20px; left:0px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/194.png" width="90" height="90" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" width="90" height="90" 
        style="opacity:0.1; position:relative; top:-40px; left:150px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
