@@ -33,23 +33,15 @@
 <br>• <u>Archit — the Programming Pokémon</u>
 <br><br>  Type: Tech / Code
 <br><br>  Ability: Adapt
-<br><br>  Nature: Curious, Persistent, Calm under pressure
-<br><br>  Evolution:
-<br>  Evolves by consistently building real-world projects, adapting to unfamiliar codebases,
-<br>  contributing to open-source, and defeating stubborn bugs through patience and iteration.
+<br><br>  Nature: Curious, Persistent
+<br><br>  Evolution: Evolves by consistently building real-world projects, adapting to new codebases, and defeating stubborn bugs over time.
 <br><br>  Description:
-<br>  This Pokémon is known for its ability to learn directly from experience.
-<br>  Rather than avoiding difficult problems, it actively seeks them out to grow stronger.
-<br>  It prefers hands-on learning—experimenting, refactoring, and refining systems until they are stable and reliable.
-<br><br>  Archit Pokémon shows high adaptability in changing environments and performs especially well
-<br>  when exposed to collaborative settings such as open-source projects and team-based development.
-<br>  Its strength increases noticeably after overcoming failed builds or debugging complex issues.
-<br><br>  Behavior:
-<br>  Calm and focused during challenges, this Pokémon rarely panics during errors.
-<br>  Instead, it analyzes the problem, adjusts its approach, and tries again with improved strategy.
+<br>  This Pokémon specializes in turning abstract ideas into structured systems.
+<br>  It prefers learning by doing, often experimenting, refactoring, and improving its approach after every failure.
+<br>  Known for its adaptability, it performs best in evolving environments such as open-source projects and team-based development.
 <br><br>  Habitat:
-<br>  Commonly found near terminals late at night, especially during debugging sessions,
-<br>  project iterations, or open-source contributions.
+<br>  Commonly found near terminals late at night, especially when debugging or contributing to projects.
+
 .<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
