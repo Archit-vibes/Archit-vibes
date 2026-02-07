@@ -2,7 +2,7 @@
 
 <!-- Top 6 Pokémon underlay with Bulbapedia links and display:block -->
 <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png" width="100" height="100" 
        style="opacity:0.12; position:relative; top:-20px; left:0px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon)" target="_blank">
