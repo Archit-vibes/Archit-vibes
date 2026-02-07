@@ -30,11 +30,11 @@
 
 
 # Yooo , Nice to meet ya !!
-<br>Archit — the Programming Pokémon
-<br><br>Type: Tech / Code
-<br><br>Ability: Adapt
-<br><br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
-<br><br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
+<br>• Archit — the Programming Pokémon
+<br><br>  Type: Tech / Code
+<br><br>  Ability: Adapt
+<br><br>  Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
+<br><br>  Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=67&lines=Gen+AI+%2B+Agentic+Specialist+%7C+Full+stack+Web+Dev)](https://git.io/typing-svg)
 
