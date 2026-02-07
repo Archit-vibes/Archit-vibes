@@ -10,7 +10,7 @@
        style="opacity:0.1; position:relative; top:-40px; left:150px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="120" height="120" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/mega/448.png" width="120" height="120" 
        style="opacity:0.08; position:relative; top:-60px; left:-100px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokémon)" target="_blank">
