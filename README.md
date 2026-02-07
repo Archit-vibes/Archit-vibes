@@ -36,6 +36,9 @@
 <br><br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
 <br><br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Gen+AI+%2B+Agentic+Speacialist)](https://git.io/typing-svg)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archit-sharma2006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/coffee_coder100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuro69kun@gmail.com) 
