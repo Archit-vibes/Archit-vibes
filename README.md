@@ -40,7 +40,7 @@
 <br>  It prefers learning by doing, often experimenting, refactoring, and improving its approach after every failure.
 <br>  Known for its adaptability, it performs best in evolving environments such as open-source projects and team-based development.
 <br><br>  Habitat:
-<br>  Commonly found near terminals late at night, especially when debugging or contributing to projects.
+<br>  Commonly found near terminals late at night, especially when debugging .
 
 .<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" align="middle" width="90" height="90" /></a>
 
