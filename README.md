@@ -1,3 +1,6 @@
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" 
+       style="opacity:0.12; position:relative; top:-20px; left:0px; display:block;">
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Training my Pokémon by building full-stack projects and refining systems through real-world battles (aka bugs).<br><br>👯 I’m looking to collaborate on<br>Open-source projects and dev communities—co-op raids where everyone levels up together.<br><br>🤝 I’m looking for help with<br>Mastering advanced moves like system design, scalability, and clean architecture.<br><br>🌱 I’m currently learning<br>New techniques to boost my Pokémon’s stats—better debugging, optimization, and smarter problem-solving.<br><br>💬 Ask me about<br>Debugging battles, refactoring strategies, and turning failed builds into experience points.<br><br>⚡ Fun fact<br>This Pokémon gains XP from bugs instead of losing HP.
 
