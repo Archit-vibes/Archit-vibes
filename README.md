@@ -1,30 +1,24 @@
 <div align="center">
 
 <!-- Top 6 Pokémon underlay with Bulbapedia links and display:block -->
-<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png" width="100" height="100" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png" width="150" height="150" 
        style="opacity:0.12; position:relative; top:-20px; left:0px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon)" target="_blank">
+       
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" width="90" height="90" 
        style="opacity:0.1; position:relative; top:-40px; left:150px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
+       
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="120" height="120" 
        style="opacity:0.08; position:relative; top:-60px; left:-100px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokémon)" target="_blank">
+
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png" width="120" height="120" 
        style="opacity:0.1; position:relative; top:-70px; left:-50px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pokémon)" target="_blank">
+
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" width="110" height="110" 
        style="opacity:0.08; position:relative; top:-50px; left:200px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokémon)" target="_blank">
+       
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="100" height="100" 
        style="opacity:0.1; position:relative; top:-30px; left:-150px; display:block;">
-</a>
+
 
 </div>
 
