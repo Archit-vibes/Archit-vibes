@@ -30,7 +30,7 @@
 
 
 # Yooo , Nice to meet ya !!
-I am Archit , Here's a brief on me : <br><br>Archit — the Programming Pokémon <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
+I am Archit , Here's a brief on me : <br><br>Archit — the Programming Pokémon <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" align="middle" width="30" height="30" /></a>
 <br>Type: Tech / Code
 <br>Ability: Adapt
 <br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
