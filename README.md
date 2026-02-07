@@ -30,12 +30,11 @@
 
 
 # Yooo , Nice to meet ya !!
-I am Archit , Here's a brief on me : <br>Archit — the Programming Pokémon
-Type: Tech / Code
-Ability: Adapt
-Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
-
-Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.
+I am Archit , Here's a brief on me : <br><br>Archit — the Programming Pokémon
+<br>Type: Tech / Code
+<br>Ability: Adapt
+<br>Evolution: Evolves by consistently building projects and defeating stubborn bugs over time.
+<br>Often found near terminals late at night, this Pokémon enjoys turning bugs into learning moments. It grows stronger with each refactor and failed build.
 
 
 
