@@ -22,7 +22,7 @@
        style="opacity:0.08; position:relative; top:-50px; left:200px; display:block;">
 </a>
 <a href="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png" width="150" height="150" 
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png" width="140" height="140" 
        style="opacity:0.1; position:relative; top:-30px; left:-150px; display:block;">
 </a>
 
